@@ -1,4 +1,6 @@
 #Hello i'm Fallah Artiansya Rohman 
+
+<img src="./arturley.jpg">
   <p align="right">
    &nbsp;
     
