@@ -19,8 +19,6 @@
 <h2 align="center">🌠 Most Used Technologies 🌠</h2>
 <br>
 <p align="center">
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="54" height="54" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="54" height="54" style="vertical-align:top; margin:4px;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="54" height="54" style="vertical-align:top; margin:4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="54" height="54" style="vertical-align:top; margin:4px;">
