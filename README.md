@@ -14,8 +14,8 @@
 
    Connect With Me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" />](https://www.linkedin.com/in/your_username/)
-[<img align="left" alt="Instagram" width="22px" src="https://tse1.mm.bing.net/th?id=OIP.izOOxDyHFwihHcQcKIExmQAAAA&pid=Api&P=0&h=180" />](https://www.instagram.com/your_username/)
+   [<img align="left" alt="LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" />](https://www.linkedin.com/in/your_username/)
+   [<img align="left" alt="Instagram" width="22px" src="https://tse1.mm.bing.net/th?id=OIP.izOOxDyHFwihHcQcKIExmQAAAA&pid=Api&P=0&h=180" />](https://www.instagram.com/fallahrohman_/)
   </p>
   
 
