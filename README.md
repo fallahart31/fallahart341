@@ -1,6 +1,5 @@
 #Hello i'm Fallah Artiansya Rohman 
   <p align="right">
-
    &nbsp;
     
    &nbsp;&#10022; Just call me **Fallah**
@@ -12,8 +11,13 @@
    &nbsp;&#10022; My current goal is to become a programmer 
    
    &nbsp;&#10022; Let's talk about Web development, Developers, and Games
-   
+
+   Connect With Me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" />](https://www.linkedin.com/in/your_username/)
+[<img align="left" alt="Instagram" width="22px" src="https://tse1.mm.bing.net/th?id=OIP.izOOxDyHFwihHcQcKIExmQAAAA&pid=Api&P=0&h=180" />](https://www.instagram.com/your_username/)
   </p>
+  
 
 <h2 align="center">🌠 Most Used Technologies 🌠</h2>
 <br>
