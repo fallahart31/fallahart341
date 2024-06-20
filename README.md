@@ -4,15 +4,15 @@
 
    &nbsp;
     
-   &nbsp;&#10022; Just call me **Khalan**
+   &nbsp;&#10022; Just call me **Fallah**
 
    &nbsp;&#10022; Currently learning about basic web programming
 
-   &nbsp;&#10022; Have good understanding of Web Development
+   &nbsp;&#10022; Have a good understanding of Web Development
 
-   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Make a game
+   &nbsp;&#10022; My current goal is to become a programmer 
    
-   &nbsp;&#10022; Let's talk about Web development, Game Develover, And Anime stuff
+   &nbsp;&#10022; Let's talk about Web development, Developers, and Games
    
   </p>
 
